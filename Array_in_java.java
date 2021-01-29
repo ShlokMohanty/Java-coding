@@ -7,3 +7,12 @@ public class Array{
 	for(String w : more) sentence.add(w);
 	System.out.println(sentence);
 }
+
+		package strings;
+public class StringIntroduction {
+public static void main(String[] args)
+{
+String name="Shlok";
+System.out.println(name.charAt[0]);
+}
+}
